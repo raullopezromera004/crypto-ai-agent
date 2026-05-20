@@ -1,5 +1,0 @@
-ccxt
-pandas
-pandas-ta
-numpy==1.26.4
-python-telegram-bot==13.7
